@@ -1,6 +1,3 @@
-# shopping-cart-vue
-Vue js application
-
 # project
 
 ## Project setup
